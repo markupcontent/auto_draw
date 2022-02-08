@@ -1,5 +1,5 @@
 # auto_draw
-auto draw in .au3, works with drawing programs like paint and paint.net
+auto draw in .au3, works with drawing programs like paint and paint.net.. also works on roblox free draw 2
 this is a project i finished at 2014 but i never published it big ripp lmfao!!!
 
 # how to install/use?
